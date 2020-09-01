@@ -1,3 +1,3 @@
 # TestRepoSamplePullRequest
 
-This is repository to perform pull request sample
+This is repository to perform pull request samples
